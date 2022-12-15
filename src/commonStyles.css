@@ -1,0 +1,43 @@
+.border {
+  border: 1px solid #eaeaea;
+}
+.rounded {
+  border-radius: 4px;
+}
+
+button {
+  cursor: pointer;
+  border-radius: 4px;
+}
+.pointer {
+  cursor: pointer;
+}
+.dragging {
+  opacity: 0.5;
+}
+.primary-button {
+  background-color: #116fed;
+  border: 1px solid #116fed;
+  padding: 5px;
+  color: #fff;
+  margin: 5px;
+}
+.secondary-button {
+  border: 1px solid #116fed;
+  padding: 5px;
+  color: #116fed;
+  background-color: #fff;
+  margin: 5px;
+}
+input[type="date"] {
+  border: 1px solid #eaeaea;
+  padding: 6px;
+  border-radius: 4px;
+  margin-right: 4px;
+}
+label {
+  margin-bottom: 10px;
+}
+.w-100 {
+  width: 100%;
+}
